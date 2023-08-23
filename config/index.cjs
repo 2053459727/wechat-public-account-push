@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '714cb9f4d71c3094bd03396182695754',
 
   PROVINCE: '浙江',
-  CITY: '丽水',
+  CITY: '缙云',
 
   USERS: [
     {
