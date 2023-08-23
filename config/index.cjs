@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '714cb9f4d71c3094bd03396182695754',
 
   PROVINCE: '浙江',
-  CITY: '缙云',
+  CITY: '丽水',
 
   USERS: [
     {
@@ -22,6 +22,7 @@ const USER_CONFIG = {
       name: '柔柔',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o7YbB6getzfg6cikve4CnFC88MGQ',
+      id: 'o7YbB6rSQfI5jUVkPAKsBHK4ENxk',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'ZpkLEoSC4HhMngppuCSU1uslQKpl60RbtQP-JWS4W48',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
